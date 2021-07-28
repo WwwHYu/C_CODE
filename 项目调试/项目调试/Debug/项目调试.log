@@ -1,0 +1,3 @@
+﻿  test.c
+G:\案例\项目调试\项目调试\test.c(8,1): warning C4090: “初始化”: 不同的“const”限定符
+  项目调试.vcxproj -> G:\案例\项目调试\Debug\项目调试.exe
